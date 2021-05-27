@@ -1,11 +1,10 @@
 HELLO WORLD :=)
 - 🔭 I’m currently working on ... 
-
-API, cyber security, hacking, software development, web development, SLEEP
+cyber security, hacking, software development, web development, SLEEP
 ---------------------------------------------------------------------------------
 - 🌱 I’m currently learning ...
 
-PHP , JavaScript , CSS , C++ / C  , Python  , Unix System
+PHP , JavaScript , CSS , , C#  , Python  , Unix System , Html 
 ---------------------------------------------------------------------------------
 - 👯 I’m looking to collaborate on ...
 
@@ -13,15 +12,15 @@ I'm looking for a friend I can learn and teach ...
 ---------------------------------------------------------------------------------
 - 🤔 I’m looking for help with ...
 
-API, cyber security, hacking, software development, web development, SLEEP
+API, cyber security, hacking, software development, web development, SLEEP <3
 ---------------------------------------------------------------------------------
 - 💬 Ask me about ...
 
-instagram : @hawkofcx 
+instagram : @tanriorj
 ---------------------------------------------------------------------------------
 - 📫 How to reach me: ...
 
-instagram : @hawkofcx 
+instagram : @faruk.developer
 ---------------------------------------------------------------------------------
 - ⚡ Fun fact: 
 
