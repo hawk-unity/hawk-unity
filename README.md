@@ -1,4 +1,4 @@
-[![HAWK UNİTY github stats](https://github-readme-stats.vercel.app/api?username=hawk-unity&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![HAWK UNİTY github stats](https://github-readme-stats.vercel.app/api?username=hawk-unity&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/hawk-unity/github-readme-stats)
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
