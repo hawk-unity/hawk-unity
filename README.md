@@ -6,7 +6,6 @@
 - 📫 How to find me: 
   - :bulb: [İnstagram post's](https://instagram.com/faruk.developer)
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawk-unity)](https://github.com/hawk-unity//github-readme-stats)
-![Snake animation](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=hawk.0fcx.hawk-unity&style=for-the-badge">
   <h3>🛠  Tech Stack</h3>
 <div style="display: inline_block"><br>
