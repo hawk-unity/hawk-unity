@@ -1,3 +1,18 @@
+<a href=”https://deltahackerz.com/forum/index.php” title=”Hacker Forum” rel=”dofollow” target=”_blank”>delta hackerz</a>
+
+<a href=”https://deltahackerz.com/forum/index.php” title=”DeltaHackerz” rel=”external”>DeltaHackerz</a>
+
+<a rel=”dofollow” href=”https://deltahackerz.com/forum/index.php” title=”Siber Güvenlik”>Siber Güvenlik</a>
+
+<a href=”https://deltahackerz.com/forum/index.php” title=”Yazılım Geliştirme” rel=”dofollow” target=”_blank”>Yazılım Geliştirme</a>
+
+<a href=”https://deltahackerz.com/forum/index.php” title=”Web geliştirme”>Web geliştirmel</a>
+
+<a href=”https://deltahackerz.com/forum/index.php” title=”Hacker Forum” rel=”dofollow”>Hacker Forum</a>
+
+<a href=”https://deltahackerz.com/forum/index.php/”>Hack Forum</a>
+
+<a href=”https://deltahackerz.com/forum/index.php” title=”DeltaHacker Hack Forum” rel=”DeltaHacker Hack Forum”>DeltaHacker Hack Forum</a>
 ![HAWK UNİTY github stats](https://github-readme-stats.vercel.app/api?username=hawk-unity&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 - :zap: I love math, programming, data science, and books
